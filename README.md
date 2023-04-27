@@ -2,6 +2,7 @@
 - 👀 Gosto de tecnologia, estudar e inovar
 - 🌱 Meu hobby é aquarismo, sempre tentando adicionar tecnologia ao hobby
 - 💞️ Trabalho em uma empresa de saneamento, todos meus trabalhos são de maneira colaborativa
+- 👀 https://www.youtube.com/@thiagoemidio8246
 - 📫 How to reach me ...
 
 <!---
