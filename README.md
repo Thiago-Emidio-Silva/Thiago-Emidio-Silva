@@ -13,6 +13,75 @@
 - 👀 https://www.youtube.com/@thiagoemidio8246
 - 📫 How to reach me ...
 
+- ## 📊 Estatísticas
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 📈 Projetos em Destaque
+
+### 🤖 RoboTrader (Machine Learning para Trading)
+Sistema de previsão de mercado utilizando LSTM para identificar sinais de compra e venda.
+
+**Tecnologias:**
+- Python
+- TensorFlow
+- Pandas
+- MLflow
+- Optuna
+
+**Destaques:**
+- 📊 Previsão baseada em séries temporais
+- ⚡ Otimização de hiperparâmetros automatizada
+- 📉 Estratégias Buy/Sell sem classe Hold
+
+---
+
+### 📡 Monitoramento de Rede com SNMP
+Ferramenta para coleta e análise de dados de rede em tempo real.
+
+**Tecnologias:**
+- Python
+- SNMP
+- AsyncIO
+
+**Destaques:**
+- 🚀 Coleta paralela de múltiplos OIDs
+- 📶 Monitoramento de banda e erros
+- ⚡ Alta performance com controle de taxa
+
+---
+
+### 🏥 Sistema Clínico (LGPD Ready)
+Sistema completo para cadastro e gestão de pacientes.
+
+**Tecnologias:**
+- PHP
+- MySQL
+- API REST
+
+**Destaques:**
+- 🔐 Adequação à LGPD
+- 📂 Estrutura modular por blocos
+- 🧾 Prontuário digital estruturado
+
+---
+
+## 📌 Áreas de Interesse
+
+- 📊 Data Science & Machine Learning
+- 💹 Trading Algorítmico
+- ⚙️ Backend escalável
+- 📡 Redes e monitoramento
+- 🧠 Inteligência Artificial aplicada
+
+---
+
+
 ## 🧰 Stack Tecnológica
 
 <p align="center">
