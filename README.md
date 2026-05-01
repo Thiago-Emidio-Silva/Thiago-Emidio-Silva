@@ -1,9 +1,9 @@
 <!-- Cabeçalhos -->
-# Olá pessoal tudo bem? Eu sou Thiago Emidio!
+## Olá pessoal tudo bem? Eu sou Thiago Emidio!
 
-#### Engenheiro de Computação
-#### MBA Automação Industrial. 
-#### Especialista em Inteligência Artificial. 
+##### Engenheiro de Computação
+##### MBA Automação Industrial. 
+##### Especialista em Inteligência Artificial. 
 
 - 👋 Olá sou @Thiago-Emidio-Silva
 - 👀 Gosto de tecnologia, estudar e inovar
