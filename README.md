@@ -16,8 +16,8 @@
 - ## 📊 Estatísticas
 
 <p align="center">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Thiago-Emidio-Silva&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-Emidio-Silva&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Thiago Emidio&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago Emidio&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
