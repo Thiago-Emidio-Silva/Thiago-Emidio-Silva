@@ -1,8 +1,11 @@
 <!-- Cabeçalhos -->
-# Titulo 01
-## Titulo 02
-### Titulo 03
-#### Titulo 04
+# Olá pessoal tudo bem? Eu sou Thiago Emidio!
+
+### Engenheiro de Computação - MBA Automação Industrial. 
+### Especialista em Inteligência Artificial. 
+### Professor ensino Técnico em Desenvolvimento de sistemas.
+### Técnico instrumentação, automação, elétrica e eletrônica na Sabesp
+
 
 - 👋 Olá sou @Thiago-Emidio-Silva
 - 👀 Gosto de tecnologia, estudar e inovar
