@@ -93,8 +93,9 @@ Sistema completo para cadastro e gestão de pacientes.
 
 ---
 
+## ⚡ Filosofia
 
-
+> "Não basta prever o futuro — é preciso construir sistemas capazes de reagir a ele em tempo real."
 
 ---
 
@@ -102,11 +103,3 @@ Sistema completo para cadastro e gestão de pacientes.
 Thiago-Emidio-Silva/Thiago-Emidio-Silva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
----
-
-## ⚡ Filosofia
-
-> "Não basta prever o futuro — é preciso construir sistemas capazes de reagir a ele em tempo real."
-
----
