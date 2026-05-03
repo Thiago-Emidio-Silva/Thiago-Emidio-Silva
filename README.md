@@ -15,8 +15,7 @@
 
 ---
 
-![Thiago Emidio GitHub stats](https://github-readme-stats.vercel.app/api?username=Thiago-Emidio-Silva&show_icons=true&theme=radical)
-
+![Thiago Emidio GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 ---
 
 ## 🧰 Stack Tecnológica
